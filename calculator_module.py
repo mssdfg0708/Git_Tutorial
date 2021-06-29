@@ -1,4 +1,4 @@
 def plus(a, b):
     return a+b
 
-plus(3, 5)
+print(plus(3, 5))
