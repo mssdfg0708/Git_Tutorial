@@ -9,3 +9,6 @@ def mult(a, b):
 
 def div(a, b):
     return a/b
+
+print(plus(3, 4))
+print(plus(5, 8))
